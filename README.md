@@ -32,7 +32,5 @@ Para asegurarse de que paises.js funcione correctamente, siga estos pasos:
 
 1. Comente o descomente las líneas de código según sea necesario para ajustarse a su entorno y configuración de base de datos.
 2. Verifique que la conexión a la base de datos sea correcta y que la URI y las credenciales sean válidas.
-3. Asegúrese de que la lógica de negocio en paises.js esté implementada correctamente y que se ajuste a sus requisitos.
-4. Ejecute el script utilizando Node.js para migrar datos, realizar consultas o realizar cualquier otra tarea relacionada con la base de datos.
-5. Si encuentra algún error, revise los mensajes de error y realice las correcciones necesarias en el código.
+3. Ejecute el script utilizando Node.js para migrar datos, realizar consultas o realizar cualquier otra tarea relacionada con la base de datos.
 
